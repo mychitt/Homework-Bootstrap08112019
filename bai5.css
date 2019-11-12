@@ -1,0 +1,46 @@
+.bg-secondaries {
+    background-color: #0cc57d!important;
+}
+h3.car-title {
+    font-size: 1.1rem;
+    color: white;
+    padding: .7rem;
+    margin: 0;
+    font-weight: 600;
+}
+p.card-text {
+    padding: 0 .7rem;
+    margin: 0;
+    padding-bottom: .7rem;
+    color: white;
+}
+h3.card-title-sec2 {
+	font-size: 1rem;
+    color: #000;
+    padding: .7rem;
+    margin: 0;
+    font-weight: 400;
+}
+p.card-text-sec2 {
+	padding: 0 .7rem;
+    margin: 0;
+    padding-bottom: .7rem;
+	color: #000;
+}
+p.card-text-sec2 a {
+	font-weight: 600;
+}
+h3.card-price {
+	color: #000;
+}
+p.star-icn {
+	font-size: .9rem;
+	color: #ffc107;
+	padding: 0 .7rem;
+    margin: 0;
+}
+span.inf {
+	display: inline-block;
+	padding: 0 .7rem;
+	padding-bottom: .7rem;
+}

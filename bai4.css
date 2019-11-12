@@ -1,0 +1,23 @@
+body {
+	color: white!important;
+}
+.bg-col1 {
+    height: 170px;
+    text-align: center;
+    background-color: #3DBEDA;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+.bg-successs {background-color: #3DBEDA!important;}
+.bg-secondarys {background-color: #30b6d3!important}
+.bg-inverses {background-color: #23c4e7!important}
+.bg-infos {background-color: #28adca!important}
+.bg-fadeds {background-color: #18b8db!important}
+.bg-bg-dangers {background-color: #3DBEDA!important}
+
+.icn {
+	color: white;
+}

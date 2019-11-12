@@ -1,0 +1,15 @@
+.icon {
+    position: absolute;
+    color: #ccc;
+    top: 63%;
+    left: 5%;
+}
+input.form-control::placeholder {
+    padding-left: 21px;
+}
+.icon-area {
+    position: absolute;
+    top: 43%;
+    left: 3%;
+    color: #ccc;
+}

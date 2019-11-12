@@ -1,0 +1,19 @@
+h2.main-title {
+	font-size: 1.5rem;
+	padding: .7rem;
+	margin: 0;
+}
+h4.card-title {
+	padding: .7rem;
+	margin: 0;
+	font-size: 1.1rem;
+}
+p.card-text {
+	padding: .7rem;
+	padding-top: 0;
+	margin: 0;
+	font-size: 1rem;
+}
+.btn {
+	font-size: .9rem;
+}

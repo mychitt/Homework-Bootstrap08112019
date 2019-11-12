@@ -1,0 +1,16 @@
+body {
+	background: #f8f8f8!important;
+}
+.btn {
+	border-radius: 50%!important;
+	width: 30px;
+	height: 30px;
+	font-size: .89rem!important;
+	line-height: 30px!important;
+	text-align: center!important;
+	padding: 0!important;
+}
+.btn2 {
+	border-radius: 3px!important;
+	padding: .375rem .75rem;
+}

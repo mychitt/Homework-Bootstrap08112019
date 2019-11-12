@@ -1,0 +1,13 @@
+h4.card-title {
+	font-size: 1.1rem;
+	color: white;
+	padding: .7rem;
+}
+.card-info {
+	padding: 0 .7rem;
+	font-size: .9rem;
+}
+span.card-star {
+    color: #FF9800;
+    font-size: 0.8rem;
+}

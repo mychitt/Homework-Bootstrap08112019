@@ -1,0 +1,48 @@
+* {
+	box-sizing: border-box;
+}
+body {
+    margin: 0!important;
+    padding: 0;
+    background-image: url(img/bgima.jpg);
+    background-size: cover;
+    background-position: initial;
+    background-repeat: no-repeat;
+    font-family: 'Roboto', sans-serif!important;
+}
+form.info-form {
+    width: 70%;
+    background-color: rgba(0, 0, 0, 0.3)!important;
+	margin-top: 10%;
+	border-radius: 5px;
+}
+input::placeholder {
+	padding-left: 1.5rem;
+}
+.icn {
+    position: absolute;
+    top: 12px;
+    left: 28px;
+    color: #a3a3a3;
+}
+input[type="date"]::before { 
+    content: attr(data-placeholder);
+    width: 100%;
+    padding-left: 1.5rem;
+}
+input.btn-hiu {
+	background-color: transparent!important;
+	border: 1px solid #28a745;
+	color: white;
+	text-transform: capitalize;
+}
+@media screen and (max-width:768px) {
+	form.info-form {
+    	width: 100%!important;
+    }
+}
+@media screen and (max-width:576px) {
+	form.info-form {
+    	width: 100%!important;
+    }
+}
